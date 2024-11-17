@@ -5,6 +5,7 @@ Os scripts deste repositório tem como objetivo a consulta de dados na base da B
 
 ## Dados Técnicos
 - Linguagem : SQL
+- Os scripts se encontram na pasta SQL.
 >  This is a challenge by [Coodesh](https://coodesh.com/)
 
 ## Descrição do Projeto
